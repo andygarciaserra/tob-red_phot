@@ -1,16 +1,8 @@
-#-*- coding: utf-8 -*-
 
-''' 
-
-
- ~~~~~  Pyraf-6-objetos-fotometria.py 
-  
-
-  Programa para hacer fotometria sobre las imagenes de objetos, ya corregidas de bias y flat,
-  y alineadas. 
+#FOTOMETRÍA DE LOS OBJETOS:
 
 
-''' 
+
 
 
 # Importamos módulos:
